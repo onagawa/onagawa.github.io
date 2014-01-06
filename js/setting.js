@@ -18,8 +18,12 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* onagawa cofog */
-  '1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
-  '1-1': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },
+  '1': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' },	// 震災関係
+  '101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },	// - 健康・福祉・環境
+  '102': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#935B3B' },	// - まちづくり
+  '103': { icon: 'icons/sangyou3.svg', color: '#C75746', bcolor: '#935B3B' },	// - 産業
+  '104': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' },	// - 基金・諸経費
+  '105': { icon: 'icons/police2.svg', color: '#C75746', bcolor: '#935B3B' },	// - 安全
   '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
   '2-2': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
