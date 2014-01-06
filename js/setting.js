@@ -28,13 +28,14 @@ OpenSpending.Styles.Cofog = {
   '201': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },				// - 子供・青少年
   '202': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },				// - 社会教育（大人）
   '3': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#4E6D00' },				// 公債
+  '301': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#4E6D00' },			// - 公債
   '4': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#D33673' },					// まちづくり
   '401': { icon: 'icons/EC.svg', color: '#C75746', bcolor: '#D33673' },						// - 新設
   '402': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },				// - 維持・管理
   '5': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#2A3A03' },			// その他
   '501': { icon: 'icons/vote.svg', color: '#C75746', bcolor: '#2A3A03'  },					// - 選挙
   '502': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#2A3A03'  },			// - 議会
-  '502': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#2A3A03'  },		// - その他
+  '503': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#2A3A03'  },		// - その他
   '6': { icon: 'icons/police2.svg', color: '#C75746', bcolor: '#EC2406' },					// 安全
   '601': { icon: 'icons/c_bousai.svg', color: '#C75746', bcolor: '#EC2406' },				// - 防災
   '602': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#EC2406' },			// - 消防・交通安全
