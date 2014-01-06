@@ -19,36 +19,35 @@ OpenSpending.Styles.Cofog = {
 
   /* onagawa cofog */
   '1': { icon: 'icons/aid-developing-countries.svg', color: '#C75746', bcolor: '#935B3B' },	// 震災関係
-  '101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },	// - 健康・福祉・環境
-  '102': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#935B3B' },	// - まちづくり
-  '103': { icon: 'icons/sangyou3.svg', color: '#C75746', bcolor: '#935B3B' },	// - 産業
-  '104': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' },	// - 基金・諸経費
-  '105': { icon: 'icons/police2.svg', color: '#C75746', bcolor: '#935B3B' },	// - 安全
-  '2': { icon: 'icons/schools.svg', color: '#C75746', bcolor: '#0AB971' },
-  '2-1': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },
-  '2-2': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },
-  '3': { icon: 'icons/economy-tourism.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-1': { icon: 'icons/dollar.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-2': { icon: 'icons/harbor.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '3-3': { icon: 'icons/culture.svg', color: '#C75746', bcolor: '#4E6D00' },
-  '4': { icon: 'icons/our-streets.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-1': { icon: 'icons/farms.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-2': { icon: 'icons/street-lights.svg', color: '#C75746', bcolor: '#D33673' },
-  '4-3': { icon: 'icons/housing.svg', color: '#C75746', bcolor: '#D33673' },
-  '5': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#2A3A03' },
-  '5-1': { icon: 'icons/tree.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '5-2': { icon: 'icons/wind.svg', color: '#C75746', bcolor: '#2A3A03'  },
-  '6': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '6-1': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#EC2406' },
-  '7': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '7-1': { icon: 'icons/traffic-watersup.svg', color: '#C75746', bcolor: '#938626' },
-  '8': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-1': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#C75746' },
-  '8-2': { icon: 'icons/government.svg', color: '#C75746', bcolor: '#C75746' },
-  '9': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '9-1': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },
-  '10': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' },
-  '10-1': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#790586' }
+  '101': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#935B3B' },			// - 健康・福祉・環境
+  '102': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#935B3B' },					// - まちづくり
+  '103': { icon: 'icons/sangyou3.svg', color: '#C75746', bcolor: '#935B3B' },				// - 産業
+  '104': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#935B3B' },		// - 基金・諸経費
+  '105': { icon: 'icons/police2.svg', color: '#C75746', bcolor: '#935B3B' },				// - 安全
+  '2': { icon: 'icons/family.svg', color: '#C75746', bcolor: '#0AB971' },					// 子育て・教育
+  '201': { icon: 'icons/pre-school.svg', color: '#C75746', bcolor: '#0AB971' },				// - 子供・青少年
+  '202': { icon: 'icons/education.svg', color: '#C75746', bcolor: '#0AB971' },				// - 社会教育（大人）
+  '3': { icon: 'icons/economic-aid.svg', color: '#C75746', bcolor: '#4E6D00' },				// 公債
+  '4': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#D33673' },					// まちづくり
+  '401': { icon: 'icons/EC.svg', color: '#C75746', bcolor: '#D33673' },						// - 新設
+  '402': { icon: 'icons/garbage.svg', color: '#C75746', bcolor: '#D33673' },				// - 維持・管理
+  '5': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#2A3A03' },			// その他
+  '501': { icon: 'icons/vote.svg', color: '#C75746', bcolor: '#2A3A03'  },					// - 選挙
+  '502': { icon: 'icons/government-uk.svg', color: '#C75746', bcolor: '#2A3A03'  },			// - 議会
+  '502': { icon: 'icons/financial-admin.svg', color: '#C75746', bcolor: '#2A3A03'  },		// - その他
+  '6': { icon: 'icons/police2.svg', color: '#C75746', bcolor: '#EC2406' },					// 安全
+  '601': { icon: 'icons/c_bousai.svg', color: '#C75746', bcolor: '#EC2406' },				// - 防災
+  '602': { icon: 'icons/order-safety.svg', color: '#C75746', bcolor: '#EC2406' },			// - 消防・交通安全
+  '7': { icon: 'icons/sangyou3.svg', color: '#C75746', bcolor: '#938626' },					// 産業
+  '701': { icon: 'icons/fishing.svg', color: '#C75746', bcolor: '#938626' },				// - 水産業
+  '702': { icon: 'icons/c_syoukougyou.svg', color: '#C75746', bcolor: '#938626' },			// - 商工業
+  '704': { icon: 'icons/island.svg', color: '#C75746', bcolor: '#938626' },					// - 観光業
+  '705': { icon: 'icons/c_nougyou.svg', color: '#C75746', bcolor: '#938626' },				// - 農業
+  '706': { icon: 'icons/forest.svg', color: '#C75746', bcolor: '#938626' },					// - 林業
+  '8': { icon: 'icons/helping-others.svg', color: '#C75746', bcolor: '#C75746' },			// 健康・福祉・環境
+  '801': { icon: 'icons/health.svg', color: '#C75746', bcolor: '#C75746' },					// - 健康
+  '802': { icon: 'icons/wheelchair.svg', color: '#C75746', bcolor: '#C75746' },				// - 福祉
+  '803': { icon: 'icons/environment.svg', color: '#C75746', bcolor: '#C75746' }				// - 環境
 };
 
 
